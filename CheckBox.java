@@ -37,7 +37,7 @@ public class CheckBox {
 		WebElement disabledBox=driver.findElement(By.xpath("//*[@id=\'contentblock\']/section/div[5]/div/div/input"));
 		boolean enabled=disabledBox.isEnabled();
 		System.out.println(enabled);
-		//driver.quit();
+		driver.quit();
 
 		
 		/*
