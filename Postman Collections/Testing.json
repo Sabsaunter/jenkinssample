@@ -7,7 +7,7 @@
 	"item": [
 		{
 			"name": "ListUsers Copy",
-			"_postman_id": "c3581fe7-0371-4c47-adcd-53d5a742e394",
+			"id": "c3581fe7-0371-4c47-adcd-53d5a742e394",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -37,14 +37,14 @@
 		},
 		{
 			"name": "SingleUser Copy",
-			"_postman_id": "fe225d49-fff5-4d07-bcd6-6c4546e24114",
+			"id": "fe225d49-fff5-4d07-bcd6-6c4546e24114",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "https://reqres.in/api/users/2"
+				"url": "https://reqres.in/api/users/3"
 			},
 			"response": []
 		}
